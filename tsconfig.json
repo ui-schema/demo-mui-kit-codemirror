@@ -2,7 +2,7 @@
     "compilerOptions": {
         "module": "esnext",
         "target": "es2015",
-        "jsx": "preserve",
+        "jsx": "react",
         "removeComments": false,
         "moduleResolution": "node",
         "forceConsistentCasingInFileNames": true,

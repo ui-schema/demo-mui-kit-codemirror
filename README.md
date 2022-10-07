@@ -4,9 +4,9 @@ Only ReactJS integration, together with MUI styling - but no further `@ui-schema
 
 See [ui-schema/react-codemirror repo](https://github.com/ui-schema/react-codemirror) for more information.
 
-[![Run on CodeSandbox](https://img.shields.io/badge/run%20on%20CodeSandbox-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=codesandbox)](https://codesandbox.io/s/github/ui-schema/demo-mui-kit-codemirror/tree/master/?autoresize=1&fontsize=12&hidenavigation=1&module=%2Fsrc%2Fpages%2FPageSimpleForm.tsx)
+[![Run on CodeSandbox](https://img.shields.io/badge/run%20on%20CodeSandbox-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=codesandbox)](https://codesandbox.io/s/github/ui-schema/demo-mui-kit-codemirror/tree/main/?autoresize=1&fontsize=12&hidenavigation=1&module=%2Fsrc%2FDemoEditor.tsx)
 
-[![Run on StackBlitz](https://img.shields.io/badge/run%20on%20StackBlitz-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=stackblitz)](https://stackblitz.com/github/ui-schema/demo-mui-kit-codemirror)
+[![Run on StackBlitz](https://img.shields.io/badge/run%20on%20StackBlitz-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=stackblitz)](https://stackblitz.com/github/ui-schema/demo-mui-kit-codemirror?file=src%2FDemoEditor.tsx,src%2FCustomCodeMirror.tsx)
 
 [![Clone on Repl.it](https://img.shields.io/badge/clone%20on%20repl.it-grey?labelColor=fff&style=for-the-badge&logo=replit)](https://repl.it/github/ui-schema/demo-mui-kit-codemirror)
 

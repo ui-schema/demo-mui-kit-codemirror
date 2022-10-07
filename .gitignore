@@ -8,6 +8,7 @@
 # default tmp dir
 /tmp
 /dist
+/build
 
 # Composer
 /vendor
