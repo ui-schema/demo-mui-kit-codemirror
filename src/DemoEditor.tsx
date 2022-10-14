@@ -11,16 +11,18 @@ const dataValue = {
     lastContacts: ['2022-01-01', '2022-03-21', '2022-04-11', '2022-05-15'],
 }
 
+const extensions = [json()]
+
 export const DemoEditor: React.FC<{}> = () => {
     const [value, setValue] = React.useState(
         JSON.stringify(dataValue, undefined, 4)
     )
-    const extensions = React.useMemo(() => [json()], [])
     const onChange: CodeMirrorOnChange = React.useCallback(
-        (_editor, nextValue, prevValue) => {
-            if(nextValue !== prevValue) {
-                setValue(nextValue)
+        (v, newValue) => {
+            if(!v.docChanged || typeof newValue !== 'string') {
+                return
             }
+            setValue(newValue)
         },
         [setValue]
     )
