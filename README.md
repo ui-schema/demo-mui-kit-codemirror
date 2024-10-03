@@ -8,8 +8,6 @@ See [ui-schema/react-codemirror repo](https://github.com/ui-schema/react-codemir
 
 [![Run on StackBlitz](https://img.shields.io/badge/run%20on%20StackBlitz-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=stackblitz)](https://stackblitz.com/github/ui-schema/demo-mui-kit-codemirror?file=src%2FDemoEditor.tsx,src%2FCustomCodeMirror.tsx)
 
-[![Clone on Repl.it](https://img.shields.io/badge/clone%20on%20repl.it-grey?labelColor=fff&style=for-the-badge&logo=replit)](https://repl.it/github/ui-schema/demo-mui-kit-codemirror)
-
 ---
 ---
 ---
