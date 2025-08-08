@@ -1,5 +1,9 @@
 # Kit-CodeMirror Example w/ Material-UI
 
+> [!IMPORTANT]
+>
+> Check the [ui-schema/react-codemirror](https://github.com/ui-schema/react-codemirror) repository for current examples.
+
 [CodeMirror v6](https://codemirror.net/) ReactJS integration example of `@ui-schema/kit-codemirror`, together with [MUI](https://mui.com) styling - but no further `@ui-schema/` packages.
 
 See [ui-schema/react-codemirror repo](https://github.com/ui-schema/react-codemirror) for more information.
